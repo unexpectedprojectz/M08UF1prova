@@ -9,12 +9,7 @@
 
     <body>
         <?php
-        echo "Hola alumnes!";
-
-        echo "Alumnes i professors";
-
-        function funcion1() {
-            echo "Maria";
+        function AJC_funcio1() {
         }
         ?>
     </body>
