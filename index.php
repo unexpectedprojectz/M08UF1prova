@@ -13,6 +13,8 @@
         }
         function AJC_funcio2() {
         }
+        function AJC_funcio3() {
+        }
         ?>
     </body>
 
