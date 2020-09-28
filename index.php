@@ -11,6 +11,8 @@
         <?php
         function AJC_funcio1() {
         }
+        function AJC_funcio2() {
+        }
         ?>
     </body>
 
