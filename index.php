@@ -16,7 +16,7 @@
         function AJC_funcio3() {
         }
         function AJC_especial() {
-            echo "Alex Jimenez Camacho";
+            echo "Alex Artes";
         }
         ?>
     </body>
